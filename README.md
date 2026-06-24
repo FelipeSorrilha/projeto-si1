@@ -6,7 +6,9 @@ Classificação de comandos de fala silenciosa e vocalizada usando sinais de ele
 
 # Alunos:
 > Felipe Ferrer Sorrilha
+
 > João Antônio Sitta Martins
+
 > Millena Sartori de Oliveira
 
 ---
