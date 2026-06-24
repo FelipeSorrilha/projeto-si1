@@ -4,6 +4,11 @@ Classificação de comandos de fala silenciosa e vocalizada usando sinais de ele
 
 > Projeto desenvolvido para a disciplina de Sistemas Inteligentes — Engenharia da Computação, UTFPR Apucarana.
 
+# Alunos:
+> Felipe Ferrer Sorrilha
+> João Antônio Sitta Martins
+> Millena Sartori de Oliveira
+
 ---
 
 ## Sumário
