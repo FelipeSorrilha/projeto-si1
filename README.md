@@ -104,7 +104,7 @@ pip install numpy pandas scikit-learn matplotlib umap-learn tables
 
 ### 1. Configure o caminho do dataset
 
-Abra os arquivos `trabalhofinal.py` e `reducaodimensionalidade.py` e localize o trecho abaixo no início de cada um:
+Abra os arquivos `versaofinal.py` e `reducaodimensionalidade.py` e localize o trecho abaixo no início de cada um:
 
 ```python
 base_path = (
@@ -136,7 +136,7 @@ base_path = "/home/seuusuario/SilentWear/data_raw_and_filt"
 ### 2. Execute a classificação
 
 ```bash
-python trabalhofinal.py
+python versaofinal.py
 ```
 
 O script roda todos os experimentos automaticamente (3 classificadores × 3 cenários × 2 modos × 2 configurações de protocol cue), com validação LOSO e LOTO. Ao final, salva os resultados em:
@@ -164,9 +164,8 @@ pca_umap_tsne_vocalized.png
 
 ```
 .
-├── trabalhofinal.py           # Pipeline principal de classificação
+├── versaofinal.py           # Pipeline principal de classificação
 ├── reducaodimensionalidade.py # Visualização via PCA, UMAP e t-SNE
-├── ARTIGO_PROJETO_...pdf      # Artigo descrevendo a metodologia e resultados
 └── README.md
 ```
 
